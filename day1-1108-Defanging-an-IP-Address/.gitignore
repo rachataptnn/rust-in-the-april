@@ -1,0 +1,11 @@
+# Ignore compiled binary
+/target/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore operating system files
+.DS_Store
